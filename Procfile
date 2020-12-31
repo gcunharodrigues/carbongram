@@ -1,1 +1,1 @@
-worker: python3 forwardgram.py config.yml
+worker: python forwardgram.py config.yml
